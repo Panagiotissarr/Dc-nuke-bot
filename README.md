@@ -65,3 +65,8 @@ Type these in any server where the bot is present:
 ## License
 
 For educational purposes only.
+
+## Credit
+
+[NanduBit](https://github.com/NanduBit/Discord-Nuke-Bot)
+Original Code
